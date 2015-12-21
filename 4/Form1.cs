@@ -52,5 +52,6 @@ namespace WindowsFormsApplication1
             f2.Show();
             this.Hide();
         }
+        // я тут был))))
     }
 }
